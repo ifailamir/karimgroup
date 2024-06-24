@@ -1,0 +1,8 @@
+.elementor-1543 .elementor-element.elementor-element-3392d0e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;--padding-top:40px;--padding-bottom:40px;--padding-left:40px;--padding-right:40px;}.elementor-1543 .elementor-element.elementor-element-de782e7{text-align:center;}.elementor-1543 .elementor-element.elementor-element-de782e7 .elementor-heading-title{color:var( --e-global-color-text );font-family:"qtkarrim", Sans-serif;font-weight:600;}#elementor-popup-modal-1543 .dialog-message{width:845px;height:auto;}#elementor-popup-modal-1543{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-1543 .dialog-close-button{display:flex;}#elementor-popup-modal-1543 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-1543 .elementor-element.elementor-element-3392d0e{--justify-content:flex-start;}.elementor-1543 .elementor-element.elementor-element-de782e7{text-align:center;}#elementor-popup-modal-1543 .dialog-message{width:658px;}#elementor-popup-modal-1543{justify-content:center;align-items:center;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'qtkarrim';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://karimgroup.id/wp-content/uploads/2024/05/qtkorrinitalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
